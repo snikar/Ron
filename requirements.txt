@@ -1,0 +1,10 @@
+streamlit
+openai
+faiss-cpu
+numpy
+bs4
+pandas
+python-docx
+pytesseract
+pdfplumber
+Pillow
